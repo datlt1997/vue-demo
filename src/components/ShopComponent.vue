@@ -16,7 +16,9 @@ export default {
       items: [
         { id: 111, name: 'banana', price: 12},
         { id: 112, name: 'orange', price: 11},
-        { id: 121, name: 'apple', price: 19}
+        { id: 121, name: 'apple', price: 19},
+        { id: 1211, name: 'chuối', price: 19},
+        { id: 12121, name: 'ap22ple', price: 19}
       ],
       // cart: [],
       total: 0
